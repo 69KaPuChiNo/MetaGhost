@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">https://github.com/69KaPuChiNo/MetaGhost.git<br>cd MetaGhost<br>pip install -r requirements.txt<br>python3 metaghost.py</p>
+<p align="left">git clone https://github.com/69KaPuChiNo/MetaGhost.git<br>cd MetaGhost<br>pip install -r requirements.txt<br>python3 metaghost.py</p>
 
 ###
 
